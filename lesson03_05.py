@@ -10,7 +10,7 @@ while True:
         elif i.upper() == "Q":
             q = True
             break
-    print('сумма всех введенных цифр = ', sum(x))
+    print('сумма всех введенных чисел = ', sum(x))
     if q:
         print('работа программы завершена')
         break
